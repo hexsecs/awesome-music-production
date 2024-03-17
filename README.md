@@ -120,3 +120,7 @@ A curated list of awesome resources, tools, and communities for music producers,
 
 - [AudioTestKitchen](https://www.audiotestkitchen.com/) - Compare the sound of different audio gear online.
 - [Music Radar](https://www.musicradar.com/) - The latest news, reviews, and tutorials in music technology and production.
+
+## Apple Logic Pro
+
+- [How To Make Your Productions Sound Analog Using Logic Pro X's Plugins](https://www.macprovideo.com/article/audio-hardware/how-to-make-your-productions-sound-analog-using-logic-pro-xs-plugins)
