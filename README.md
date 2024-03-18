@@ -124,3 +124,4 @@ A curated list of awesome resources, tools, and communities for music producers,
 ## Apple Logic Pro
 
 - [How To Make Your Productions Sound Analog Using Logic Pro X's Plugins](https://www.macprovideo.com/article/audio-hardware/how-to-make-your-productions-sound-analog-using-logic-pro-xs-plugins)
+- [How to Master in Logic Pro X](https://www.youtube.com/watch?v=jTrDsvukOE8) - A three bus (low, mid, high) mastering chain in Logic Pro.
