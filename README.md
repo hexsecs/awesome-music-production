@@ -65,6 +65,7 @@ A curated list of awesome resources, tools, and communities for music producers,
 - [MixWithTheMasters](https://mixwiththemasters.com/) - Learn mixing and mastering from the industry's top engineers.
 - [PureMix](https://www.puremix.net/) - High-quality video tutorials on mixing, mastering, and recording.
 - [iZotope Learning Center](https://www.izotope.com/en/learn.html) - Educational resources for improving your mixing and mastering skills.
+- [The Complete Guide to MIX VOCALS Like a PRO](https://www.youtube.com/watch?v=Qu5_r2Zx3EA) - The Complete Guide to MIX VOCALS Like a PRO.
 
 ## Field Recording
 
