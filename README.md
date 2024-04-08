@@ -54,6 +54,7 @@ A curated list of awesome resources, tools, and communities for music producers,
 
 #### Understanding the Technology
 - [4 Types of Analog Compression—and Why They Matter in a Digital World](https://www.izotope.com/en/learn/4-types-of-analog-compression-and-why-they-matter-in-a-digital-world.html)
+- [How to Use Compression (10-Hour Course)](https://www.youtube.com/watch?v=ksJRgK3viMc)
 
 #### Logic Pro - Stock Plugins
 - [Music Radar - Fantastic (stock) plugins and how to use them: Logic Pro Compressor ](https://www.musicradar.com/how-to/stock-plugins-logic-compressor)
