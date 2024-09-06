@@ -1,0 +1,6 @@
+# Breakdown of UVI Vintage Vault 4 Instruments to the Real Sampled Instruments
+
+| UVI Virtual Instrument | Sampled / Inspiration | Image | Description | 
+|------------------------|-----------------------|------|--------------|
+| [Bit Zone](https://www.uvi.net/bit-zone) | Crumar Bit 99 | ![image](https://github.com/user-attachments/assets/ab7e2a64-d560-4caf-b0ef-1f05ff44ff78)|Bit Zone is inspired by the Italian-born Crumar Bit 99, an obscure digitally-controlled 6-voice polyphonic analog synth released in competition to the popular 6-voice analog synths coming out of Japan at the time. No slouch, this formidable synth was designed with 2 DCOs and 2 LFOs per-voice, per-voice CEM 3328 analog filters, and per-voice VCAs, making it exceptionally versatile.|
+| [Emulation II+](https://www.uvi.net/emulation-ii-plus.html#instruments) |E-MU Emulator II |![image](https://github.com/user-attachments/assets/828f675c-ebb0-4f79-ab80-d5c28d1f6af3)|Not 1 but 3 iconic sampler-synths from the '80s plus a massive lo-fi drum machine, the original officially licensed sounds plus tons of new ones, all recorded from the vintage hardware, available as individual instruments or in a multi capable of huge stacked sounds and inspiring 4+1 part phrases, we are extremely excited to present you with our most ambitious library yet: Emulation II+!|
