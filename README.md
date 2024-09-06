@@ -29,13 +29,14 @@ A curated list of awesome resources, tools, and communities for music producers,
 - [Pro Tools](https://www.avid.com/pro-tools) - The industry standard for recording studios, offering advanced editing and mixing capabilities.
 - [Reaper](https://www.reaper.fm/) - A cost-effective DAW known for its customization and flexible routing options.
 
-## Plugins and VSTs
+## Plugins and Virtual Instument
 
 - [Spitfire Audio](https://www.spitfireaudio.com/) - High-quality orchestral and cinematic sample libraries.
 - [Native Instruments](https://www.native-instruments.com/) - A wide range of software instruments, including the popular Kontakt sampler and Massive synthesizer.
 - [FabFilter](https://www.fabfilter.com/) - Professional audio processing plugins, known for their sound quality and user interface.
 - [iZotope](https://www.izotope.com/) - Advanced audio technology for mastering, noise reduction, and more.
 - [Valhalla DSP](https://valhalladsp.com/) - High-quality, affordable reverb and digital effects plugins.
+- [UVI](https://uvi.net) - Massive collections of sampled instruments
 
 ## Sample Libraries
 
