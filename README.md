@@ -58,6 +58,8 @@ A curated list of awesome resources, tools, and communities for music producers,
 - [How to Setup a MASTERING SESSION in Logic Pro](https://www.youtube.com/watch?v=4wtj11BalTU)
 - [MIXING and MASTERING in Logic Pro (Start to Finish) - 3-Hour Training](https://www.youtube.com/watch?v=jSFF8fotNhA)
 
+## Production Tools
+
 ### Compression
 
 #### Understanding the Technology
