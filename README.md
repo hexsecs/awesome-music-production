@@ -49,18 +49,14 @@ A curated list of awesome resources, tools, and communities for music producers,
 - [Syntorial](http://www.syntorial.com/) - An interactive software that teaches synthesis and sound design.
 - [Sonic Academy](https://www.sonicacademy.com/) - Tutorials and courses on music production, focusing on electronic music and sound design.
 
-## Mixing 
-
-### How to Mix
+## Mixing and Mastering
 
 - [How to MIX like a PRO in Logic Pro (Advanced Mixing Tutorial 2024)](https://www.youtube.com/watch?v=I5zWgfpo8mA)
 - [How to Mix Like a Pro (12-Hour Mixing Course)](https://www.youtube.com/watch?v=1BLZGe-TqW0&list=PLEEVAiK8zmk_PgSvc30ARY7WUoba3RkBC&index=1)
 - [How to Produce & Mix Pro Vocals (12-Hour Course)](https://www.youtube.com/watch?v=qKZFckGgd8A&list=PLEEVAiK8zmk_PgSvc30ARY7WUoba3RkBC&index=2)
-
-## Mastering
-
 - [How to Master Your Music (6-Hour Course)](https://www.youtube.com/watch?v=ID-xyOnEB1c&list=PLEEVAiK8zmk_PgSvc30ARY7WUoba3RkBC&index=3)
 - [How to Setup a MASTERING SESSION in Logic Pro](https://www.youtube.com/watch?v=4wtj11BalTU)
+- [MIXING and MASTERING in Logic Pro (Start to Finish) - 3-Hour Training](https://www.youtube.com/watch?v=jSFF8fotNhA)
 
 ### Compression
 
