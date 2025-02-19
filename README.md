@@ -43,6 +43,7 @@ A curated list of awesome resources, tools, and communities for music producers,
 - [Loopmasters](https://www.loopmasters.com/) - A vast collection of royalty-free samples covering a wide range of genres.
 - [Splice Sounds](https://splice.com/sounds) - A subscription-based service offering millions of high-quality samples, loops, and presets.
 - [EastWest Sounds](http://www.soundsonline.com/) - Award-winning virtual instruments and sample libraries for film, TV, and game composers.
+- [Convert Sample Library Formats](https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html)
 
 ## Synthesis and Sound Design
 
