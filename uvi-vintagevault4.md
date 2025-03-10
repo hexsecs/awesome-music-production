@@ -12,3 +12,46 @@
 |[Super-7](https://www.uvi.net/super-7)|Roland MKS-7|![image](https://github.com/user-attachments/assets/7294c845-aa34-4a0d-900f-023887a61567)|Super-7 delivers the unabashed sound of the '80s inspired by the MKS-7, an 8-voice rackmount synthesizer that combines the analog architecture of the famous 106 with PCM sounds from the 7o7 drum machine. In demand, often emulated, and a well loved instrument to this day, the 106 has been used widely by diverse artists ranging from pop legends Depeche Mode to the genre-defying Autechre. The sound is powerful and dynamic, capable of creating rich and charactered voices within modern productions or carrying entire tracks with its distinct, warm analog vibe.|
 |[Beatbox Anthology 2](https://www.uvi.net/beatbox-anthology-ii.html)|Many|![image](https://github.com/user-attachments/assets/db487eef-98f9-4906-81f3-e9dd0bc87dd9)|An incredible collection of vintage, modern and customized drum machine sounds representing over 50 years of grooveboxes, beat machines, drum modules, synth drums and more, from analog to digital, mainstream to obscure, BeatBox Anthology 2 delivers them all in an extraordinarily versatile and easy-to-use percussion instrument. Explore the history of hardware drum synthesis while you design your own kits, layer different machine sounds together, and even create entirely new hybrids with precision envelopes and sample offsets, all with expertly recorded and exquisitely sliced samples that deliver the authentic and unmistakable sound of hardware.
 |
+
+
+| UVI Instrument       | Emulated Instrument(s)                                            |
+|----------------------|-------------------------------------------------------------------|
+| **Analog Synths**    |                                                                   |
+| Bit Zone             | Crumar Bit 99                                                    |
+| PX Apollo            | Moog Apollo Prototype                                            |
+| PX P10               | Sequential Circuits Prophet-10                                   |
+| PX V8                | Voyetra Eight                                                    |
+| PX Memories          | Lintronics Advanced Memorymoog (LAMM)                            |
+| PX SunBox            | SunSyn Analog Synthesizer                                        |
+| JP Legacy            | Roland Jupiter Series (Jupiter-4, Jupiter-6, Jupiter-8)          |
+| OB Legacy            | Oberheim Synthesizers (OB-X, OB-Xa, OB-8, OB-SX, Matrix-12)      |
+| UVX-3P               | Roland JX-3P                                                     |
+| UVX-10P              | Roland JX-10, MKS-70, JX-8P                                      |
+| UVX670               | Roland JX-10P, JX-8P                                             |
+| UVX80                | Akai AX80                                                       |
+| Kroma                | Rhodes Chroma, Chroma Polaris                                    |
+| Synthox              | Elka Synthex                                                    |
+| UltraMini            | Moog Minimoog (1973 and 2011 models)                             |
+| **Digital Synths**   |                                                                   |
+| Digital Synsations   | Yamaha SY77, Korg M1, Ensoniq VFX, Roland D-50                   |
+| Digital Synsations Vol. 2 | Roland JD-800, Korg 01/W, Ensoniq SD-1                     |
+| Hybrid 6000          | Casio HT-6000                                                   |
+| Energy               | Digital Keyboards Synergy                                       |
+| FM Suite             | Yamaha DX Series (DX1, DX7, DX21, DX100)                         |
+| Vector Pro           | Sequential Circuits Prophet VS, Yamaha SY22                     |
+| WaveRunner           | PPG Wave Series (Wave 2.2, Wave 2.3), Waldorf Microwave          |
+| **Samplers**         |                                                                   |
+| Emulation One        | E-mu Emulator I                                                 |
+| Emulation II+        | E-mu Emulator II                                                |
+| Emulator III         | E-mu Emulator III                                               |
+| U1250                | Kurzweil K250, K1000                                            |
+| Darklight IIx        | Fairlight CMI Series IIx                                        |
+| **String Machines**  |                                                                   |
+| String Machines 2    | Various vintage string synthesizers (e.g., ARP Solina, Crumar Performer) |
+| **Drum Machines**    |                                                                   |
+| BeatBox Anthology 2  | 111 vintage drum machines (e.g., Roland TR-808, LinnDrum)        |
+| Prime 8+             | Roland TR-808                                                   |
+| **Miscellaneous**    |                                                                   |
+| Mello                | Mellotron                                                       |
+| Program 24           | Solton Programmer 24                                            |
+| Super-7              | Roland Juno-60, Juno-106, TR-707, TR-727                        |
