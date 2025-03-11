@@ -1,4 +1,4 @@
-Native Instruments' Komplete 15 is a comprehensive production suite that includes a vast array of instruments, effects, and expansions. The collection encompasses over 165 premium instruments and effects, more than 125 Expansion sound packs, and over 150,000 sounds. citeturn0search7
+Native Instruments' Komplete 15 is a comprehensive production suite that includes a vast array of instruments, effects, and expansions. The collection encompasses over 165 premium instruments and effects, more than 125 Expansion sound packs, and over 150,000 sounds.
 
 | Instrument | Emulated/Inspiration Instrument(s) |
 |------------|------------------------------------|
