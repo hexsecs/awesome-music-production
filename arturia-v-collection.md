@@ -23,7 +23,7 @@
 | DX7 V | Yamaha DX7 | |
 | Emulator II V | E-mu Emulator II | |
 | Jup-8000 V | Roland JP-8000 | NEW in V11 |
-| MiniFreak V | Arturia hybrid synth | |
+| MiniFreak V | Arturia MiniFreak hybrid synth | |
 | SQ80 V | Ensoniq SQ-80 | |
 | Synclavier V | New England Digital Synclavier | |
 | **Keyboards & Organs** | | |
@@ -91,4 +91,5 @@
 - **Brass and Winds:** Horns, sax, flute textures
 - **Drums:** Percussive/rhythmic capabilities
 - **Vocal:** Choir or vocal-like synthesized textures
+
 
