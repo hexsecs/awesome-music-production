@@ -1,41 +1,54 @@
-| Arturia Instrument | Emulated Instrument |
-|---------------------|---------------------|
-| **Analog Synths**   |                     |
-| Mini V              | Moog Minimoog       |
-| CS-80 V             | Yamaha CS-80        |
-| Jup-8 V             | Roland Jupiter-8    |
-| ARP2600 V           | ARP 2600            |
-| Modular V           | Moog Modular        |
-| SEM V               | Oberheim SEM        |
-| Matrix-12 V         | Oberheim Matrix-12  |
-| Prophet-5 V         | Sequential Circuits Prophet-5 |
-| Prophet-VS V        | Sequential Circuits Prophet VS |
-| OB-Xa V             | Oberheim OB-Xa      |
-| Jun-6 V             | Roland Juno-6       |
-| MS-20 V             | Korg MS-20          |
-| Buchla Easel V      | Buchla Music Easel  |
-| Synthi V            | EMS Synthi AKS      |
-| **Digital Synths & Samplers** |           |
-| Synclavier V        | New England Digital Synclavier |
-| CMI V               | Fairlight CMI       |
-| Emulator II V       | E-mu Emulator II    |
-| **Keyboards & Organs** |                 |
-| B-3 V               | Hammond B3 Organ    |
-| Stage-73 V          | Fender Rhodes Stage 73 |
-| Wurli V             | Wurlitzer 200A      |
-| Clavinet V          | Hohner Clavinet D6  |
-| Vox Continental V   | Vox Continental     |
-| Farfisa V           | Farfisa Compact Deluxe |
-| **Acoustic & Electric Pianos** |          |
-| Piano V             | Various Acoustic Pianos (via physical modeling) |
-| **Augmented Acoustic Instruments** |      |
-| Mellotron V         | Mellotron           |
-| **Miscellaneous**   |                     |
-| Analog Lab V        | Unified Interface for All Instruments |
-| Pigments            | Advanced Software Synthesizer |
+# Arturia V Collection 11 Pro
 
-*Note: The list above is based on Arturia V Collection X
-
+| Arturia Instrument | Emulated Instrument | Notes|
+|-----------|-------------------------|-------|
+| **Analog Synths** | | |
+| ARP2600 V | ARP 2600 | |
+| Buchla Easel V | Buchla Music Easel | |
+| CS-80 V | Yamaha CS-80 | |
+| Jun-6 V | Roland Juno-6 | |
+| Jup-8 V | Roland Jupiter-8 | |
+| Matrix-12 V | Oberheim Matrix-12 | |
+| Mini V | Moog Minimoog | |
+| Modular V | Moog Modular | |
+| MS-20 V | Korg MS-20 | |
+| OB-Xa V | Oberheim OB-Xa | |
+| Prophet-5 V | Sequential Circuits Prophet-5 | |
+| Prophet-VS V | Sequential Circuits Prophet-VS | |
+| SEM V | Oberheim SEM | NEW in V11 |
+| Synthi V | EMS Synthi AKS | |
+| **Digital Synths & Samplers** | | |
+| CMI V | Fairlight CMI | |
+| CZ V | Casio CZ-101 / Phase-Distortion | |
+| DX7 V | Yamaha DX7 | |
+| Emulator II V | E-mu Emulator II | |
+| Jup-8000 V | Roland JP-8000 | NEW in V11 |
+| MiniFreak V | Arturia hybrid synth | |
+| SQ80 V | Ensoniq SQ-80 | |
+| Synclavier V | New England Digital Synclavier | |
+| **Keyboards & Organs** | | |
+| B-3 V | Hammond B3 Organ | |
+| Clavinet V | Hohner Clavinet D6 | |
+| Farfisa V | Farfisa Compact Deluxe | |
+| Solina V | ARP Solina String Ensemble | |
+| Stage-73 V | Fender Rhodes Stage 73 | |
+| Vox Continental V | Vox Continental | |
+| Wurli V | Wurlitzer 200A | |
+| **Acoustic & Electric Pianos** | | |
+| CP-70 V | Yamaha CP-70 Electric Grand | |
+| Piano V | Acoustic pianos via physical modelling | |
+| **Augmented Acoustic Instruments** | | |
+| Augmented BRASS | Hybrid brass | MAJOR update V11 |
+| Augmented GRAND PIANO | Hybrid grand piano | MAJOR update V11 |
+| Augmented MALLETS | Marimba, vibraphone, bells + synthesis | NEW in V11 |
+| Augmented STRINGS | Hybrid strings | MAJOR update V11 |
+| Augmented VOICES | Hybrid vocal textures | MAJOR update V11 |
+| Augmented WOODWINDS | Hybrid woodwinds | MAJOR update V11 |
+| Augmented YANGTZE | Chinese instruments + modern textures | NEW in V11 |
+| Mellotron V | Mellotron | |
+| **Miscellaneous** | | |
+| Analog Lab V | Unified interface to all instruments | |
+| Pure LoFi | Lo-fi synth / sample engine | NEW in V11 |
 
 
 
@@ -78,3 +91,4 @@
 - **Brass and Winds:** Horns, sax, flute textures
 - **Drums:** Percussive/rhythmic capabilities
 - **Vocal:** Choir or vocal-like synthesized textures
+
